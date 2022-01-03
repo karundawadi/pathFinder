@@ -16,3 +16,6 @@ A C program to find the path between two points in a grid and move the Ev3 robot
 ## User stories
 - The robot can be placed at any point in the grid  
 - The goal and obstacles can also be placed at any point in the grid 
+
+## Demo
+[![Robot Working](https://img.youtube.com/vi/ZpA4UNAzSDc/0.jpg)](https://www.youtube.com/watch?v=ZpA4UNAzSDc)
