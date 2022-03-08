@@ -21,4 +21,4 @@ A C program to find the path between two points in a grid and move the Ev3 robot
 [![Robot Working](https://img.youtube.com/vi/ZpA4UNAzSDc/0.jpg)](https://www.youtube.com/watch?v=ZpA4UNAzSDc)
 
 ## Team
-This was a team project. The team memebers were : [Shishir Bishowokarma](https://github.com/Shishir77) and [Robert Fabbro](https://github.com/PolskaFly)
+This was a team project. The team memebers were : [Shishir Bishowokarma](https://github.com/Shishir77) and [Robert Fabbro](https://github.com/PolskaFly).
